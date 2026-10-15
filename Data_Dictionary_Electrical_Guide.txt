@@ -1,0 +1,14 @@
+TEXAS LICENSED ELECTRICAL CONTRACTORS (MASTER DATASET 2026)
+Source: Texas Department of Licensing and Regulation (TDLR) via data.texas.gov
+
+COLUMN DEFINITIONS:
+- license_number: Official TDLR state electrical license identifier
+- license_type: Classification (Electrical Contractor / Master Electrician)
+- license_subtype: Endorsements / license grade
+- business_name: Registered entity or operating DBA
+- owner_name: Master licensee / qualifying contractor of record
+- business_address: Primary physical or operational address
+- business_city_state_zip: Operational municipality, state, and postal code
+- business_county: Texas jurisdiction county
+- business_telephone: Contact phone number on file with state board
+- license_expiration_date: Recorded license expiration date (MMDDYYYY)

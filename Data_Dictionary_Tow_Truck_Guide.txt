@@ -1,0 +1,14 @@
+TEXAS LICENSED TOW TRUCK & RECOVERY OPERATORS (MASTER DATASET 2026)
+Source: Texas Department of Licensing and Regulation (TDLR) via data.texas.gov
+
+COLUMN DEFINITIONS:
+- license_number: Official state TDLR operating license identifier
+- license_type: Classification (Incident Management / Consent Tow / Private Property)
+- license_subtype: Endorsements / operating credentials
+- business_name: Registered operating entity or DBA
+- operator_name: Licensed operator / qualifying individual of record
+- business_address: Primary physical or dispatch address
+- business_city_state_zip: Operational municipality, state, and postal code
+- business_county: Texas jurisdiction county
+- business_telephone: Contact phone number on file with state board
+- license_expiration_date: Official license expiration date (MMDDYYYY)
